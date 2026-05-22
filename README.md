@@ -48,6 +48,8 @@ npm run dev
 - AI-generated example sentences and contextual translations
 
 ---
+## Live Demo
+https://lingualearn-app-two.vercel.app/
 
 ## Author
 
